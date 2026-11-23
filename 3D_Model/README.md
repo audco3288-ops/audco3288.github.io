@@ -4,4 +4,4 @@
 
 | 프로젝트 | 내용 | 마지막 갱신 |
 | --- | --- | --- |
-| [History_Crash](History_Crash/README.md) | 이집트 신전 보스전 환경(impe / defalt)과 보스 패턴 5종 | 2026-11-11 |
+| [History_Crash](History_Crash/README.md) | 이집트 신전 보스전 환경(impe / defalt)과 보스 패턴 5종 | 2026-11-19 |
